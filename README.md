@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">🚀Projects:</h3>
 <h4><a href="https://mobi-app.netlify.app/">▶Mobi ATR E-commerce</a></h4>
-<h4><a href="https://pi-countries-deployed-front2.vercel.app/">▶Countries App</a></h4>
+<h4><a href="https://new-countries-app-front.vercel.app/">▶Countries App</a></h4>
+<h4><a href="https://weather-app-lucmuno.vercel.app/">▶Weather App</a></h4>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
 
 <br>
@@ -51,6 +52,6 @@ Here are some ideas to get you started:
 <p align="left">
 Email: <a href="mailto:lucianommunoz@gmail.com">lucianommunoz@gmail.com</a>
 
-Linkedin: <a href="https://www.linkedin.com/in/luciano-marcos-mu%C3%B1oz-11338b219/?locale=en_US/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/luciano-marcos-mu%C3%B1oz-11338b219/?locale=en_US/" height="20" width="20" /></a>
+Linkedin: <a href="https://www.linkedin.com/in/lucianomunozfullstack" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/luciano-marcos-mu%C3%B1oz-11338b219/?locale=en_US/" height="20" width="20" /></a>
 
 </p>
